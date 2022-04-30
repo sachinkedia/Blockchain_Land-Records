@@ -1,1 +1,2 @@
-# Blockchain_Land-Records
+# Chess Engine using Alpha Beta Pruning
+In a chess game, there are multiple aspects working together, which corresponds to formation of a chess engine. Chess engines analyse the position of pieces on board and give the best lines from the current position, which enables players to explore new ideas and understand different game positions. This project is our attempt to understand how chess engines work, and build a chess engine based on our understanding.
